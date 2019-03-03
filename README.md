@@ -1,2 +1,2 @@
 # Applied-Statistics-Report
-Health effects of eating contaminated fish
+Using statistical analysis to identify if eating contaminated fish has any detrimental health effects. 
